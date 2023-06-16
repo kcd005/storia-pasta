@@ -1,0 +1,131 @@
+html
+{
+    background-image:url("./images/sfondo1.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+img
+{
+    border: 3px solid black;
+}
+
+div
+{
+    background-color: rgb(227, 215, 200);
+}
+
+#titolo
+{
+    text-align: center;
+    border: 3px solid black;
+    border-radius: 50px;
+    margin: 10px 200px;
+    background-color: rgb(227, 215, 200);
+}
+
+#carbonara
+{
+    border: 5px solid black;
+    border-radius: 40px;
+    margin-top: 80px;
+    margin-left: 100px;
+    width:min-content;
+    text-align: center;
+    
+}
+
+#pasta1
+{
+    border: 5px solid black;
+    border-left: 0px;
+    border-right: 0px;
+}
+
+#carbo
+{
+    text-align: center;
+    border: 3px solid black;
+    border-radius: 50px;
+    margin: 10px 200px;
+    background-color: rgb(227, 215, 200);
+    padding: 20px;
+}
+
+#titoloCarbo
+{
+    padding-bottom: 15px;
+    font-size: 60px;
+}
+
+#cacio
+{
+    text-align: center;
+    border: 5px solid black;
+    border-radius: 40px;
+    width:min-content;
+    margin-left: 600px;
+}
+
+#pasta2
+{
+    border: 5px solid black;
+    border-left: 0px;
+    border-right: 0px;
+}
+
+#Cacio
+{
+    text-align: center;
+    border: 3px solid black;
+    border-radius: 50px;
+    margin: 10px 200px;
+    background-color: rgb(227, 215, 200);
+    padding: 20px;
+}
+
+#titoloCacio
+{
+    padding-bottom: 15px;
+}
+
+#olio
+{
+    border: 5px solid black;
+    border-radius: 40px;
+    margin-top: 80px;
+    margin-right: 100px;
+    width:min-content;
+    text-align: center;
+}
+
+#pasta3
+{
+    border: 5px solid black;
+    border-left: 0px;
+    border-right: 0px;
+}
+
+#Olio
+{
+    text-align: center;
+    border: 3px solid black;
+    border-radius: 50px;
+    margin: 10px 200px;
+    background-color: rgb(227, 215, 200);
+    padding: 20px;
+}
+
+#titoloAglio
+{
+    padding-bottom: 15px;
+}
+
+#footera
+{
+    border: 5px solid black;
+    border-radius: 40px;
+    text-align: center;
+    background-color:rgba(255, 255, 255, 0.828); 
+}
