@@ -40,8 +40,6 @@ div
 #pasta1
 {
     border: 5px solid black;
-    border-left: 0px;
-    border-right: 0px;
     margin: 0px 10px;
 }
 
@@ -76,8 +74,6 @@ div
 #pasta2
 {
     border: 5px solid black;
-    border-left: 0px;
-    border-right: 0px;
     margin: 0px 10px;
 }
 
@@ -110,8 +106,6 @@ div
 #pasta3
 {
     border: 5px solid black;
-    border-left: 0px;
-    border-right: 0px;
     margin: 0px 10px;
 }
 
